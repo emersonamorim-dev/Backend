@@ -1,0 +1,140 @@
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\Backend.dll.config
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\Backend.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\Backend.pdb
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\csc.exe
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\csc.exe.config
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\csc.rsp
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\csi.exe
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\csi.exe.config
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\csi.rsp
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.AppContext.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Collections.Immutable.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Console.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Globalization.Calendars.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.IO.Compression.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.IO.FileSystem.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Net.Http.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Net.Sockets.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Reflection.Metadata.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.ValueTuple.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Xml.XPath.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\vbc.exe
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\vbc.exe.config
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\vbc.rsp
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\VBCSCompiler.exe
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\roslyn\VBCSCompiler.exe.config
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\Newtonsoft.Json.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\System.Net.Http.Formatting.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\System.Web.Http.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\System.Web.Http.WebHost.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\Newtonsoft.Json.xml
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\System.Net.Http.Formatting.xml
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\System.Web.Http.xml
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\System.Web.Http.WebHost.xml
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\pt-br\System.Net.Http.Formatting.resources.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\pt-br\System.Web.Http.resources.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\bin\pt-br\System.Web.Http.WebHost.resources.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\obj\Debug\Backend.csproj.CopyComplete
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\obj\Debug\Backend.dll
+E:\projetos\projetos-csharp-2\Backend\Backend\Backend\obj\Debug\Backend.pdb
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\Backend.dll.config
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\Backend.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\Backend.pdb
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\csc.exe
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\csc.exe.config
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\csc.rsp
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\csi.exe
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\csi.exe.config
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\csi.rsp
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.AppContext.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Collections.Immutable.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Console.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Globalization.Calendars.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.IO.Compression.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.IO.FileSystem.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Net.Http.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Net.Sockets.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Reflection.Metadata.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.ValueTuple.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Xml.XPath.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\vbc.exe
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\vbc.exe.config
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\vbc.rsp
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\VBCSCompiler.exe
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\roslyn\VBCSCompiler.exe.config
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\Newtonsoft.Json.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\System.Net.Http.Formatting.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\System.Web.Http.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\System.Web.Http.WebHost.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\Newtonsoft.Json.xml
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\System.Net.Http.Formatting.xml
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\System.Web.Http.xml
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\System.Web.Http.WebHost.xml
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\pt-br\System.Net.Http.Formatting.resources.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\pt-br\System.Web.Http.resources.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\bin\pt-br\System.Web.Http.WebHost.resources.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\obj\Debug\Backend.csproj.CopyComplete
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\obj\Debug\Backend.dll
+E:\projetos\projetos-csharp-2\Backend Desafio\Backend\Backend\obj\Debug\Backend.pdb
