@@ -1,7 +1,7 @@
 # Backend Desenvolvido em Csharp
 
-Implemetado todos os métodos que são os principais verbos utilizados para desenvolvimento de aplicações e consumo de API na internet: Get, Post, Put e Delete.
-Nesse Backend é possível consultar Trends e Order que está armazenado no sistma tudo isso feito C#.
+Codificação e implemetação em C# dos principais métodos que são verbos utilizados para desenvolvimento de aplicações e consumo de API através de um arquivo Json foi usado métodos Get, Post, Put e Delete.
+Nesse Backend é possível consultar Trends e Order que é armazenado no sistma e consulta através Postman.
 
 
 
